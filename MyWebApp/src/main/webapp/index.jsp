@@ -216,7 +216,7 @@
   <div class="courses">
     <div class="course-card" data-course="devops">
       <img class="course-logo" src="https://cdn-icons-png.flaticon.com/512/906/906334.png" alt="DevOps Logo" />
-      DevOps
+      DevSecOps
     </div>
     <div class="course-card" data-course="python">
       <img class="course-logo" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" />
